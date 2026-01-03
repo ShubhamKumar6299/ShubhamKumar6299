@@ -22,7 +22,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-\`\`\`javascript
+```javascript
 const shubham = {
     name: "Shubham Kumar",
     role: "Full Stack Developer",
@@ -31,14 +31,14 @@ const shubham = {
     skills: ["Web Dev", "DSA", "Problem Solving"],
     motto: "Code. Create. Innovate. Repeat! 🚀"
 };
-\`\`\`
+```
 
 - 🔭 **Currently Building:** Full Stack Projects & Cool Web Apps
 - 🌱 **Leveling Up:** System Design, Cloud & Advanced DSA
 - 👯 **Open To:** Exciting Development Collaborations
 - 💡 **Ask Me About:** Web Development, DSA & Problem Solving
 - 🎯 **2026 Goals:** Master MERN Stack & Contribute to Open Source
-- ⚡ **Fun Fact:** I mass-produce \`console.log()\` statements and call it debugging! 😄
+- ⚡ **Fun Fact:** I mass-produce `console.log()` statements and call it debugging! 😄
 
 <br clear="right"/>
 
@@ -169,6 +169,8 @@ const shubham = {
   
   **⭐ Star my repos if you find them useful!**
   
+  
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
   
 </div>
+
