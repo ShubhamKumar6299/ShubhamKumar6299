@@ -53,7 +53,7 @@ const shubham = {
     <img src="https://img.shields.io/badge/LeetCode-817%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
   <a href="https://www.geeksforgeeks.org/user/shubham_codes/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-500%2B%20Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG"/>
+    <img src="https://img.shields.io/badge/GeeksforGeeks-600%2B%20Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG"/>
   </a>
   
   <br/><br/>
