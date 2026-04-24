@@ -1,7 +1,9 @@
 <!-- Animated Header -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shubham%20Kumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20|%20Problem%20Solver%20|%20Tech%20Enthusiast&descAlignY=52&descSize=18"/>
-</div>
+![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+<img 
+  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Shubham%20Kumar&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Problem%20Solver%20|%20Tech%20Enthusiast&descAlignY=60&descSize=20" 
+  width="100%" 
+/>
 
 <!-- Typing Animation -->
 <p align="center">
@@ -60,7 +62,7 @@ const shubham = {
   
   <!-- LeetCode Card -->
   <a href="https://leetcode.com/u/shubham_4518/">
-    <img src="https://leetcard.jacoblin.cool/shubham_4518?theme=dark&font=Nunito&ext=heatmap" width="500" alt="LeetCode Stats"/>
+    <img src="https://leetcard.jacoblin.cool/shubham_4518?theme=dark&font=Nunito&ext=heatmap" width="100%" alt="LeetCode Stats"/>
   </a>
   
   <br/><br/>
@@ -190,7 +192,10 @@ const shubham = {
   **⭐ Star my repos if you find them useful!**
   
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+  <img 
+  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" 
+  width="100%" 
+/>
   
 </div>
 
