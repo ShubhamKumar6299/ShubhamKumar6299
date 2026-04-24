@@ -7,7 +7,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hey+there!+I'm+Shubham+%F0%9F%91%8B;800%2B+LeetCode+Problems+Solved+%F0%9F%94%A5;Building+cool+stuff+with+code+%F0%9F%9A%80" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hey+there!+I'm+Shubham+%F0%9F%91%8B;900%2B+LeetCode+Problems+Solved+%F0%9F%94%A5;Building+cool+stuff+with+code+%F0%9F%9A%80" alt="Typing SVG" /></a>
 </p>
 
 <!-- Profile Views & Social Badges -->
@@ -52,10 +52,10 @@ const shubham = {
   
   <!-- LeetCode Stats -->
   <a href="https://leetcode.com/u/shubham_4518/">
-    <img src="https://img.shields.io/badge/LeetCode-817%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+    <img src="https://img.shields.io/badge/LeetCode-900+%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
   <a href="https://www.geeksforgeeks.org/user/shubham_codes/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-600%2B%20Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG"/>
+    <img src="https://img.shields.io/badge/GeeksforGeeks-700%2B%20Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG"/>
   </a>
   
   <br/><br/>
@@ -68,9 +68,11 @@ const shubham = {
   <br/><br/>
   
   <!-- LeetCode Difficulty Breakdown -->
-  <img src="https://img.shields.io/badge/Easy-239-00B8A3?style=for-the-badge" alt="Easy"/>
-  <img src="https://img.shields.io/badge/Medium-461-FFC01E?style=for-the-badge" alt="Medium"/>
-  <img src="https://img.shields.io/badge/Hard-117-FF375F?style=for-the-badge" alt="Hard"/>
+  <!--
+    <img src="https://img.shields.io/badge/Easy-239-00B8A3?style=for-the-badge" alt="Easy"/>
+    <img src="https://img.shields.io/badge/Medium-461-FFC01E?style=for-the-badge" alt="Medium"/>
+    <img src="https://img.shields.io/badge/Hard-117-FF375F?style=for-the-badge" alt="Hard"/>
+  -->
   
 </div>
 
